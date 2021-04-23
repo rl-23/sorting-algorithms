@@ -41,5 +41,6 @@ for i in range(0,10):
   randnum = random.randint(1,50)
   a.append(randnum)
 print(a)
+
 mergeSort(a)
 print(a)
